@@ -7,4 +7,5 @@ Linear regression in statistical learning in Python3(Hit the star if you think i
     
 1.2 MutiLinearRegression  
   The method of establishing a simple regression model for each predictive variable alone is not completely satisfactory. When forming the estimation of regression coefficient, each regression equation ignores other variables. A better approach is to extend the simple linear regression model .so that it can directly include multiple predictors.
+
 -------------------Check that in MutiLinearRegression.py---------------------------------------------------------------
